@@ -1,0 +1,17 @@
+{
+  "name": "s-cp",
+  "version": "1.0.0",
+  "description": "simple and quick copy tool",
+  "main": "index.js",
+  "repository": "git@github.com:shenweizheng110/s-cp.git",
+  "author": "shenweizheng.weini",
+  "license": "MIT",
+  "bin": {
+    "s-cp": "bin/s-cp.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.0",
+    "inquirer": "^7.3.3"
+  }
+}
